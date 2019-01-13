@@ -6,9 +6,9 @@ def speak_to_grandma(phrase)
     elsif phrase == phrase.downcase
     return "HUH?! SPEAK UP, SONNY"
     elsif phrase == phrase.downcase
-    return 
+    return "HUH?! SPEAK UP, SONNY"
     elsif phrase == phrase.upcase
-    return "#{response3}"
+    return 
   else return "#{response3}"
 end 
     
