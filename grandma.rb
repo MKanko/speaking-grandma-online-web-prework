@@ -1,3 +1,11 @@
+def speak_to_grandma("phrase")
+  response = "I LOVE YOU TOO PUMPKIN!"
+  if #{"phrase"} == "I LOVE YOU GRANDMA!"
+  response
+ 
+  
+  
+
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
