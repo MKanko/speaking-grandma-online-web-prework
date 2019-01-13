@@ -1,6 +1,6 @@
-def speak_to_grandma("phrase")
+def speak_to_grandma("string")
   response = "I LOVE YOU TOO PUMPKIN!"
-  if #{"phrase"} == "I LOVE YOU GRANDMA!"
+  if #{"string"} == "I LOVE YOU GRANDMA!"
   response
  
   
