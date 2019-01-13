@@ -14,13 +14,9 @@ def speak_to_grandma(phrase)
     
     elsif phrase == phrase.upcase
     
-    return 
+    return "#{response3}"
     
-    elsif phrase == phrase.upcase
-    
-    return 
-    
-  else return "NO, NOT SINCE 1938!"
+  else return "#{response3}"
      
 end 
     
