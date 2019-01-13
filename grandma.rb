@@ -8,6 +8,7 @@ def speak_to_grandma(phrase)
     elsif phrase == phrase.upcase
     return "#{response3}"
     else return "#{response3}"
+  end
 end 
     
  
